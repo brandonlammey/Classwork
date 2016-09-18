@@ -1,9 +1,9 @@
 **Programming II -** This course uses C++ to focuses on the imperative and object-oriented styles using Abstract Data Types. Basic data structures such as stacks, queues, trees, and heaps are covered. Other topics include: recursion, basic notions of algorithmic efficiency and performance analysis in the context of sorting algorithms, and basic Object-Oriented techniques.
 
 Topics reinforced in labs are given below with a brief description. 
-
-
-
+<br/> 
+<br /> 
+<br /> 
 **BinarySearchTree:** A dictionary program which read in the words and their corresponding definitions from a file placing them into a dictionary entry object and then arch object into a binary search tree. User can query the dictionary in various ways.
 
 **DriversLicenseRecords:**  Reads a file that contains driver's license information, store the data
