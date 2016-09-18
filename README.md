@@ -1,1 +1,1 @@
-This repository contains programs prepared for my coursework and lab assignments. Divided by class, then by assignment.
+This repository contains programs created for coursework and lab assignments. Programs are divded by class, then by assignment. 
