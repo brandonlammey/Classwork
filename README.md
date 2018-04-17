@@ -1,4 +1,4 @@
-#Programming Class Labs
+# Programming Class Labs
 
 This repository contains programs created for graded coursework and lab assignments. Programs are divided by class, then by assignment
 
